@@ -1,0 +1,11 @@
+C:\Users\jpont\Source\Repos\AulasPresenciais\ConsoleView\WindowsFormsView\obj\Debug\WindowsFormsView.csprojAssemblyReference.cache
+C:\Users\jpont\Source\Repos\AulasPresenciais\ConsoleView\WindowsFormsView\obj\Debug\WindowsFormsView.TelasAluno.frmCadastroAluno.resources
+C:\Users\jpont\Source\Repos\AulasPresenciais\ConsoleView\WindowsFormsView\obj\Debug\WindowsFormsView.MenuPrincipal.resources
+C:\Users\jpont\Source\Repos\AulasPresenciais\ConsoleView\WindowsFormsView\obj\Debug\WindowsFormsView.Properties.Resources.resources
+C:\Users\jpont\Source\Repos\AulasPresenciais\ConsoleView\WindowsFormsView\obj\Debug\WindowsFormsView.TelasAluno.frmListaAlunos.resources
+C:\Users\jpont\Source\Repos\AulasPresenciais\ConsoleView\WindowsFormsView\obj\Debug\WindowsFormsView.TelasDisciplinas.frmCadastroDisciplina.resources
+C:\Users\jpont\Source\Repos\AulasPresenciais\ConsoleView\WindowsFormsView\obj\Debug\WindowsFormsView.TelasDisciplinas.frmListaDisciplina.resources
+C:\Users\jpont\Source\Repos\AulasPresenciais\ConsoleView\WindowsFormsView\obj\Debug\WindowsFormsView.TelasProfessor.frmCadastroProfessor.resources
+C:\Users\jpont\Source\Repos\AulasPresenciais\ConsoleView\WindowsFormsView\obj\Debug\WindowsFormsView.TelasProfessor.frmListaProfessor.resources
+C:\Users\jpont\Source\Repos\AulasPresenciais\ConsoleView\WindowsFormsView\obj\Debug\WindowsFormsView.csproj.GenerateResource.cache
+C:\Users\jpont\Source\Repos\AulasPresenciais\ConsoleView\WindowsFormsView\obj\Debug\WindowsFormsView.csproj.CoreCompileInputs.cache
